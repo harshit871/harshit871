@@ -1,4 +1,4 @@
-## Hi there 👋, I am Harshit, I’m a frontend dev who’s all about learning the newest tools and turning them into clean, user-first web apps.
+## Hi there 👋, I am Harshit, a frontend dev who’s all about learning the newest tools and turning them into clean, user-first web apps.
 - 🌱 I’m currently learning backend development
 
 <p align="center">
