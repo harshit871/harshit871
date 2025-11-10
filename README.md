@@ -1,4 +1,4 @@
-## Hi there 👋, I am Harshit, a frontend developer.
+## Hi there 👋, I am Harshit, a Frontend Developer.
 
 - 🌱 Currently dabbling into backend
 
